@@ -14,5 +14,7 @@
         '
         c = a - b
         '
+        c = a / b
+        '
     End Sub
 End Module
